@@ -1,5 +1,5 @@
 {
-    "chain_name": "Point",
+    "chain_name": "point",
     "api": ["https://rpc-mainnet-1.point.space:1317","https://api.point.nodestake.top"],
     "rpc": ["https://rpc-mainnet-1.point.space:26657","https://rpc.point.nodestake.top"],
     "sdk_version": "0.45.7",
