@@ -14,12 +14,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "side",
-    "logo": "/logos/side.png",
+    "logo": "/logos/side.jpg",
     "assets": [{
         "base": "uside",
         "symbol": "SIDE",
-        "exponent": "6", 
+        "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/side.png"
+        "logo": "/logos/side.jpg"
     }]
 }

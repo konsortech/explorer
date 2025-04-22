@@ -1,7 +1,5 @@
 {
     "chain_name": "iris",
-    "registry_name": "irisnet",
-    "alias": "iris-network",
     "api": [
         {"provider": "IRISnet", "address": "https://api.irishub-1.irisnet.org"},
         {"provider": "Allnodes", "address": "https://iris-rest.publicnode.com"}

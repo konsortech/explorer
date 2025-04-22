@@ -1,0 +1,21 @@
+{
+    "chain_name": "bluzelle",
+    "api": [
+        {"provider": "KonsorTech", "address": "https://mainnet-bluzelle-api.konsortech.xyz"}
+    ],
+    "rpc": [
+        {"provider": "KonsorTech", "address": "https://mainnet-bluzelle-rpc.konsortech.xyz"}
+    ],
+    "sdk_version": "0.44.3",
+    "coin_type": "118",
+    "min_tx_fee": "80000",
+    "addr_prefix": "bluzelle",
+    "logo": "/logos/bluzelle.jpg",
+    "assets": [{
+        "base": "ubnt",
+        "symbol": "BNT",
+        "exponent": "6",
+        "coingecko_id": "bluzelle", 
+        "logo": "/logos/bluzelle.jpg"
+    }]
+}

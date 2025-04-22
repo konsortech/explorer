@@ -1,0 +1,21 @@
+{
+    "chain_name": "picasso",
+    "api": [
+        {"provider": "Polkachu", "address": "https://picasso-api.polkachu.com"}
+    ],
+    "rpc": [
+        {"provider": "Polkachu", "address": "https://picasso-rpc.polkachu.com"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "200000",
+    "addr_prefix": "pica",
+    "logo": "/logos/picasso.jpg",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "12",
+        "coingecko_id": "picasso", 
+        "logo": "/logos/picasso.jpg"
+    }]
+}

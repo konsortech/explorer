@@ -1,0 +1,21 @@
+{
+    "chain_name": "seda",
+    "api": [
+        {"provider": "KonsorTech", "address": "https://mainnet-seda-api.konsortech.xyz"}
+    ],
+    "rpc": [
+        {"provider": "KonsorTech", "address": "https://mainnet-seda-rpc.konsortech.xyz"}
+    ],
+    "sdk_version": "0.50.5",
+    "coin_type": "60",
+    "min_tx_fee": "20000000000",
+    "addr_prefix": "seda",
+    "logo": "/logos/seda.jpg",
+    "assets": [{
+        "base": "aseda",
+        "symbol": "SEDA",
+        "exponent": "18",
+        "coingecko_id": "seda-2", 
+        "logo": "/logos/seda.jpg"
+    }]
+}
