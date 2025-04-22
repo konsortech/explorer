@@ -1,7 +1,7 @@
 {
     "chain_name": "oraichain",
-    "api": ["https://oraichain-mainnet-api.itrocket.net"],
-    "rpc": ["https://oraichain-mainnet-rpc.itrocket.net"],
+    "api": ["https://mainnet-orai-api.konsortech.xyz","https://lcd.orai.io","https://oraichain-mainnet-api.itrocket.net"],
+    "rpc": ["https://mainnet-orai-rpc.konsortech.xyz","https://rpc.orai.io","https://oraichain-mainnet-rpc.itrocket.net"],
     "coin_type": 118,
     "min_tx_fee": 200,
     "sdk_version": "0.50.7",

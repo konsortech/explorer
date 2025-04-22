@@ -1,5 +1,5 @@
 {
-    "chain_name": "HYPERSIGN",
+    "chain_name": "hypersign",
     "api": ["https://testnet-hypersign-api.konsortech.xyz/"],
     "rpc": ["https://testnet-hypersign-rpc.konsortech.xyz/"],
     "sdk_version": "0.47.6",

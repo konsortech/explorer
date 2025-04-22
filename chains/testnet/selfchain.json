@@ -1,5 +1,5 @@
 {
-    "chain_name": "SELFCHAIN",
+    "chain_name": "selfchain",
     "api": ["https://rpc-testnet.selfchain.xyz:1317"],
     "rpc": ["https://rpc-testnet.selfchain.xyz:26657"],
     "sdk_version": "0.47.10",

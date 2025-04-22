@@ -1,5 +1,5 @@
 {
-    "chain_name": "HEDGE",
+    "chain_name": "hedge",
     "api": ["https://testnet-hedge-api.konsortech.xyz"],
     "rpc": ["https://testnet-hedge-rpc.konsortech.xyz"],
     "sdk_version": "0.47.5",
