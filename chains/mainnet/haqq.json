@@ -20,7 +20,7 @@
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
     "addr_prefix": "haqq",
-    "logo": "/logos/haqq.svg",
+    "logo": "/logos/haqq.jpg",
     "theme_color": "#157C83",
     "keplr_features": [
       "ibc-transfer",
@@ -34,7 +34,7 @@
         "symbol": "ISLM",
         "exponent": "18",
         "coingecko_id": "islamic-coin",
-        "logo": "/logos/islm.svg"
+        "logo": "/logos/islm.jpg"
       }
     ]
   }

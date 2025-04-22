@@ -1,0 +1,16 @@
+{
+    "chain_name": "SELFCHAIN",
+    "api": ["https://rpc-testnet.selfchain.xyz:1317"],
+    "rpc": ["https://rpc-testnet.selfchain.xyz:26657"],
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "uself",
+        "symbol": "SELF",
+        "exponent": "6",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}
