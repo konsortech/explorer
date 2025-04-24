@@ -9,8 +9,8 @@
     "addr_prefix": "self",
     "logo": "/logos/selfchain.jpg",
     "assets": [{
-        "base": "uself",
-        "symbol": "SELF",
+        "base": "uslf",
+        "symbol": "SLF",
         "exponent": "6",
         "coingecko_id": "self-chain",
         "logo": "/logos/selfchain.jpg"
