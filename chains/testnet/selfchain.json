@@ -1,5 +1,6 @@
 {
     "chain_name": "selfchain",
+    "coingecko": "self-chain",
     "api": ["https://rpc-testnet.selfchain.xyz:1317"],
     "rpc": ["https://rpc-testnet.selfchain.xyz:26657"],
     "sdk_version": "0.47.10",
@@ -11,6 +12,7 @@
         "base": "uself",
         "symbol": "SELF",
         "exponent": "6",
+        "coingecko_id": "self-chain",
         "logo": "/logos/selfchain.jpg"
     }]
 }

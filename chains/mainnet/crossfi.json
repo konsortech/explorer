@@ -1,8 +1,8 @@
 {
     "chain_name": "crossfi",
     "coingecko": "",
-    "api": ["https://crossfi-mainnet-api.itrocket.net"], 
-    "rpc": ["https://crossfi-mainnet-rpc.itrocket.net"],
+    "api": ["https://crossfi-mainnet-api.itrocket.net","https://mainnet-crossfi-api.konsortech.xyz"],
+    "rpc": ["https://crossfi-mainnet-rpc.itrocket.net","https://mainnet-crossfi-rpc.konsortech.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "60",
@@ -12,9 +12,9 @@
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "mpx",
-        "symbol": "PX",
-        "exponent": "18", 
-        "coingecko_id": "",
+        "symbol": "MPX",
+        "exponent": "18",
+        "coingecko_id": "crossfi-2",
         "logo": "/logos/crossfi.jpg"
     }]
 }

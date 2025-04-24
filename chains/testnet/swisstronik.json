@@ -1,8 +1,8 @@
 {
     "chain_name": "swisstronik",
     "coingecko": "",
-    "api": ["https://swisstronik-testnet-api.itrocket.net"], 
-    "rpc": ["https://swisstronik-testnet-rpc.itrocket.net"],
+    "api": ["https://swisstronik-testnet-api.itrocket.net","https://testnet-swisstronik-api.konsortech.xyz"],
+    "rpc": ["https://swisstronik-testnet-rpc.itrocket.net","https://testnet-swisstronik-rpc.konsortech.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.47.5",
     "coin_type": "60",
@@ -12,7 +12,7 @@
     "assets": [{
         "base": "aswtr",
         "symbol": "SWTR",
-        "exponent": "18", 
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/swisstronic.jpg"
     }]

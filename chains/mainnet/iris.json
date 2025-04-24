@@ -2,12 +2,14 @@
     "chain_name": "iris",
     "api": [
         {"provider": "IRISnet", "address": "https://api.irishub-1.irisnet.org"},
-        {"provider": "Allnodes", "address": "https://iris-rest.publicnode.com"}
+        {"provider": "Allnodes", "address": "https://iris-rest.publicnode.com"},
+        {"provider": "KonsorTech", "address": "https://mainnet-iris-api.konsortech.xyz"}
     ],
     "rpc": [
         {"provider": "Anonymous", "address": "http://34.82.96.8:26657"}, 
         {"provider": "Anonymous", "address": "http://34.77.68.145:26657"},
-        {"provider": "Allnodes", "address": "https://iris-rpc.publicnode.com:443"}
+        {"provider": "Allnodes", "address": "https://iris-rpc.publicnode.com:443"},
+        {"provider": "KonsorTech", "address": "https://mainnet-iris-rpc.konsortech.xyz"}
     ],
     "sdk_version": "0.46.1",
     "coin_type": "118",

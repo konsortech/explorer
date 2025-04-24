@@ -3,13 +3,17 @@
     "api": [
         {
             "address": "https://atomone-api.allinbits.services", 
-            "provider": "All in Bits"
+            "provider": "All in Bits",
+            "address": "https://mainnet-atomone-api.konsortech.xyz",
+            "provider": "KonsorTech"
         }
     ], 
     "rpc": [
         {
             "address": "https://atomone-rpc.allinbits.services", 
-            "provider": "All In Bits"
+            "provider": "All In Bits",
+            "address": "https://mainnet-atomone-rpc.konsortech.xyz",
+            "provider": "KonsorTech"
         }
     ],
     "sdk_version": "v0.47.13",

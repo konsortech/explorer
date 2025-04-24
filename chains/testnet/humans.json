@@ -1,8 +1,8 @@
 {
     "chain_name": "humans",
-    "coingecko": "",
-    "api": ["https://humans-testnet-api.itrocket.net"],
-    "rpc": ["https://humans-testnet-rpc.itrocket.net"],
+    "coingecko": "humans-ai",
+    "api": ["https://humans-testnet-api.itrocket.net","https://testnet-humans-api.konsortech.xyz"],
+    "rpc": ["https://humans-testnet-rpc.itrocket.net","https://testnet-humans-rpc.konsortech.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": 60,

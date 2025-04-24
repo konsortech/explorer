@@ -8,7 +8,8 @@
       "https://api-sge.nodeist.net",
       "https://sge-api.polkachu.com",
       "https://api.sge.nodestake.top",
-      "https://sge-api.sr20de.xyz"
+      "https://sge-api.sr20de.xyz",
+      "https://mainnet-sge-api.konsortech.xyz"
     ],
     "rpc": [
       "https://rpc.cosmos.directory/sge",
@@ -17,7 +18,8 @@
       "https://rpc-sge.nodeist.net",
       "https://sge-rpc.polkachu.com",
       "https://rpc.sge.nodestake.top",
-      "https://sge-rpc.sr20de.xyz"
+      "https://sge-rpc.sr20de.xyz",
+      "https://mainnet-sge-rpc.konsortech.xyz"
     ],
     "snapshot_provider": "",
     "addr_prefix": "sge",

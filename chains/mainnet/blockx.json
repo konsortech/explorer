@@ -3,13 +3,17 @@
     "api": [
         {
             "address": "https://api.blockxnet.com",
-            "provider": "BlockX"
+            "provider": "BlockX",
+            "address": "https://mainnet-blockx-api.konsortech.xyz",
+            "provider": "KonsorTech"
         }
     ],
     "rpc": [
         {
             "address": "https://rpc.blockxnet.com",
-            "provider": "BlockX"
+            "provider": "BlockX",
+            "address": "https://mainnet-blockx-rpc.konsortech.xyz",
+            "provider": "KonsorTech"
         }
     ],
     "sdk_version": "0.45.1",

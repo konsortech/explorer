@@ -7,7 +7,8 @@
       "https://api-realio-network.nodeist.net",
       "http://realio.api.m.stavr.tech:21097",
       "https://api.realio.indonode.net",
-      "https://api.realio.nodestake.top"
+      "https://api.realio.nodestake.top",
+      "https://mainnet-realio-api.konsortech.xyz"
     ],
     "rpc": [
       "https://rpc.cosmos.directory/realio",
@@ -15,7 +16,8 @@
       "https://rpc-realio-network.nodeist.net",
       "http://realio.rpc.m.stavr.tech:21097",
       "https://rpc.realio.indonode.net",
-      "https://rpc.realio.nodestake.top"
+      "https://rpc.realio.nodestake.top",
+      "https://mainnet-realio-rpc.konsortech.xyz"
     ],
     "snapshot_provider": "",
     "addr_prefix": "realio",
@@ -33,7 +35,7 @@
         "base": "arst",
         "symbol": "RST",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "realio-network",
         "logo": "/logos/realio.jpg"
       }
     ],

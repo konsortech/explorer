@@ -3,13 +3,15 @@
     "coingecko": "aura-network",
     "api": [
             "https://lcd.aura.network",
-            "https://api.aura.nodestake.top"
+            "https://api.aura.nodestake.top",
+            "https://mainnet-aura-api.konsortech.xyz"
     ],
     "rpc": [
         "https://rpc.aura.network:443",
         "https://snapshot-1.aura.network:443",
         "https://snapshot-2.aura.network:443",
-        "https://rpc.aura.nodestake.top"
+        "https://rpc.aura.nodestake.top",
+        "https://mainnet-aura-api.konsortech.xyz"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",

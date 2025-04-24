@@ -1,8 +1,8 @@
 {
     "chain_id":"uptick_117-1",
     "chain_name": "uptick",
-    "api": ["https://rest.uptick.network", "https://api.uptick.nodestake.top" ],
-    "rpc": ["https://rpc.uptick.nodestake.top"],
+    "api": ["https://rest.uptick.network", "https://api.uptick.nodestake.top", "https://mainnet-uptick-api.konsortech.xyz"],
+    "rpc": ["https://rpc.uptick.nodestake.top", "https://mainnet-uptick-rpc.konsortech.xyz"],
     "sdk_version": "v0.46.0",
     "coin_type": "60",
     "min_tx_fee": "40000",

@@ -1,8 +1,8 @@
 {
     "chain_name": "atomone",
     "coingecko": "atomone",
-    "api": ["https://atomone-testnet-api.itrocket.net"],
-    "rpc": ["https://atomone-testnet-rpc.itrocket.net"],
+    "api": ["https://atomone-testnet-api.itrocket.net","https://testnet-atomone-api.konsortech.xyz"],
+    "rpc": ["https://atomone-testnet-rpc.itrocket.net","https://testnet-atomone-rpc.konsortech.xyz"],
     "snapshot_provider": "",
     "sdk_version": "v0.47.13",
     "coin_type": "118",

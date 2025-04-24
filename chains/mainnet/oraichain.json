@@ -12,6 +12,7 @@
         "base": "orai",
         "symbol": "ORAI",
         "exponent": 6,
+        "coingecko_id": "oraichain-token",
         "logo": "/logos/orai.jpg"
       }
     ]

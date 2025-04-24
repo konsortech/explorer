@@ -1,8 +1,8 @@
 {
     "chain_name": "quicksilver",
-    "coingecko": "",
-    "api": ["https://quicksilver-testnet-api.itrocket.net"],
-    "rpc": ["https://quicksilver-testnet-rpc.itrocket.net"],
+    "coingecko": "quicksilver",
+    "api": ["https://quicksilver-testnet-api.itrocket.net","https://testnet-quicksilver-api.konsortech.xyz"],
+    "rpc": ["https://quicksilver-testnet-rpc.itrocket.net","https://testnet-quicksilver-rpc.konsortech.xyz"],
     "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "8000",
@@ -13,7 +13,7 @@
         "base": "uqck",
         "symbol": "QCK",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "quicksilver",
         "logo": "/logos/quicksilver.jpg"
       }
     ]

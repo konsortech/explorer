@@ -5,13 +5,15 @@
         {"provider": "Polkachu", "address": "https://quicksilver-api.polkachu.com"},
         {"provider": "Nodeist", "address": "https://api-quicksilver.nodeist.net"},
         {"provider": "StakeTake", "address": "https://api.quicksilver.stake-take.com"},
-        {"provider": "Allnodes", "address": "https://quicksilver-rest.publicnode.com"}
+        {"provider": "Allnodes", "address": "https://quicksilver-rest.publicnode.com"},
+        {"provider": "KonsorTech", "address": "https://mainnet-quicksilver-api.konsortech.xyz"}
     ],
     "rpc": [
         {"provider": "Polkachu", "address": "https://quicksilver-rpc.polkachu.com"}, 
         {"provider": "Nodeist", "address": "https://rpc-quicksilver.nodeist.net"},
         {"provider": "StakeTake", "address": "https://rpc.quicksilver.stake-take.com"},
-        {"provider": "Allnodes", "address": "https://quicksilver-rpc.publicnode.com:443"}
+        {"provider": "Allnodes", "address": "https://quicksilver-rpc.publicnode.com:443"},
+        {"provider": "KonsorTech", "address": "https://mainnet-quicksilver-rpc.konsortech.xyz"}
     ],
     "sdk_version": "0.46.7",
     "coin_type": "118",
