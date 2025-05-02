@@ -3,11 +3,11 @@
     "registry_name": "SIDE",
     "api": [
         {"provider":"side labs", "address": "https://rest.side.one"},
-        {"provider":"KonsorTech", "address": "https://testnet-side-api.konsortech.xyz"}
+        {"provider":"KonsorTech", "address": "https://mainnet-side-api.konsortech.xyz"}
     ],
     "rpc": [
         {"provider":"side labs", "address": "https://rpc.side.one"},
-        {"provider":"KonsorTech", "address": "https://testnet-side-rpc.konsortech.xyz"}
+        {"provider":"KonsorTech", "address": "https://mainnet-side-rpc.konsortech.xyz"}
     ],
     "grpc": [
         {"address": "grpc.side.one:443", "provider": "side labs"},
