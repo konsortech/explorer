@@ -11,6 +11,10 @@
         "provider": "kjnodes.com 🦄"
       },
       {
+        "address": "https://mainnet-nibiru-api.konsortech.xyz",
+        "provider": "KonsorTech"
+      },
+      {
         "address": "https://api.nibiru.nodestake.org",
         "provider": "NodeStake"
       },
@@ -63,6 +67,10 @@
       {
         "address": "https://nibiru.rpc.kjnodes.com",
         "provider": "kjnodes.com 🦄"
+      },
+      {
+        "address": "https://mainnet-nibiru-rpc.konsortech.xyz",
+        "provider": "KonsorTech"
       },
       {
         "address": "https://rpc.nibiru.nodestake.org",
