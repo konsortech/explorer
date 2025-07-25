@@ -1,0 +1,16 @@
+{
+    "chain_name": "lumera",
+    "api": ["https://api-lumera.winnode.xyz"],
+    "rpc": ["https://rpc-lumera.winnode.xyz"],
+    "sdk_version": "0.50.12",
+    "coin_type": "118",
+    "min_tx_fee": "250000",
+    "addr_prefix": "lumera",
+    "logo": "/logos/lumera.png",
+    "assets": [{
+        "base": "ulume",
+        "symbol": "LUME",
+        "exponent": "6",
+        "logo": "/logos/lumera.png"
+    }]
+}
