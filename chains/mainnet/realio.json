@@ -15,5 +15,19 @@
         "exponent": "18",
         "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
+    },
+    {
+        "base": "arst",
+        "symbol": "RST",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/realio.png"
+    },
+    {
+        "base": "almx",
+        "symbol": "LMX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/realio.png"
     }]
 }

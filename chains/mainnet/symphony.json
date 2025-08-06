@@ -4,7 +4,7 @@
     "rpc": ["https://mainnet-symphony-rpc.konsortech.xyz"],
     "sdk_version": "0.50.6",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "250",
     "addr_prefix": "symphony",
     "logo": "/logos/symphony.png",
     "assets": [{

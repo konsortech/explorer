@@ -1,7 +1,7 @@
 {
     "chain_name": "lumera",
-    "api": ["https://api-lumera.winnode.xyz"],
-    "rpc": ["https://rpc-lumera.winnode.xyz"],
+    "api": ["https://lcd.testnet.lumera.io"],
+    "rpc": ["https://rpc.testnet.lumera.io"],
     "sdk_version": "0.50.12",
     "coin_type": "118",
     "min_tx_fee": "250000",
