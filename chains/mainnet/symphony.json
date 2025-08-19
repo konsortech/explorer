@@ -12,5 +12,23 @@
         "symbol": "MLD",
         "exponent": "6",
         "logo": "/logos/symphony.png"
-    }]
+    }],
+    "feeCurrencies": [
+		{
+			"coinDenom": "MLD",
+			"coinMinimalDenom": "note",
+			"coinDecimals": 6,
+			"coinGeckoId": "unknown",
+			"gasPriceStep": {
+				"low": 0.00025,
+				"average": 0.0025,
+				"high": 0.004
+			}
+		}
+	],
+     "gasPriceStep": {
+		"low": 0.00025,
+		"average": 0.0025,
+		"high": 0.004
+	}
 }
