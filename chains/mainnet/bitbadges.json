@@ -1,0 +1,23 @@
+{
+    "chain_name": "bitbadges",
+    "api": [
+        {"provider": "KonsorTech", "address": "https://mainnet-bitbadges-api.konsortech.xyz"},
+        {"provider": "Polkachu", "address": "https://bitbadges-api.polkachu.com"}
+    ],
+    "rpc": [
+        {"provider": "KonsorTech", "address": "https://mainnet-bitbadges-rpc.konsortech.xyz"},
+        {"provider": "Polkachu", "address": "https://bitbadges-rpc.polkachu.com"}
+    ],
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "bb",
+    "logo": "/logos/bitbadges.png",
+    "assets": [{
+        "base": "ubadge",
+        "symbol": "BADGE",
+        "exponent": "9",
+        "coingecko_id": "bitbadges", 
+        "logo": "/logos/bitbadges.png"
+    }]
+}

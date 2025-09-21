@@ -1,0 +1,23 @@
+{
+    "chain_name": "sunrise",
+    "api": [
+        {"provider": "KonsorTech", "address": "https://mainnet-sunrise-api.konsortech.xyz"},
+        {"provider": "Polkachu", "address": "https://sunrise-rpc.polkachu.com"}
+    ],
+    "rpc": [
+        {"provider": "KonsorTech", "address": "https://mainnet-sunrise-rpc.konsortech.xyz"},
+        {"provider": "Polkachu", "address": "https://arkeo-rpc.polkachu.com"}
+    ],
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "sunrise",
+    "logo": "/logos/sunrise.jpg",
+    "assets": [{
+        "base": "uvrise",
+        "symbol": "VRISE",
+        "exponent": "6",
+        "coingecko_id": "sunrise-layer", 
+        "logo": "/logos/sunrise.jpg"
+    }]
+}

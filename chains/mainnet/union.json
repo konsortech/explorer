@@ -1,0 +1,17 @@
+{
+  "chain_name": "union",
+  "api": ["https://mainnet-union-api.konsortech.xyz","https://api-1.union.nodes.guru","https://union-api.polkachu.com"],
+  "rpc": ["https://mainnet-union-rpc.konsortech.xyz","https://rpc-1.union.nodes.guru","https://union-rpc.polkachu.com"],
+  "sdk_version": "0.47.3",
+  "addr_prefix": "union",
+  "min_tx_fee": "5000",
+  "logo": "/logos/union.jpg",
+  "assets": [
+    {
+      "symbol": "U",
+      "base": "au",
+      "exponent": 18,
+      "logo": "/logos/union.jpg"
+    }
+  ]
+}

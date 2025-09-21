@@ -1,0 +1,27 @@
+{
+    "chain_name": "bitway",
+    "registry_name": "Bitway",
+    "api": [
+        {"provider":"KonsorTech", "address": "https://mainnet-bitway-api.konsortech.xyz"},
+        {"provider":"ITRocket", "address": "https://bitway-mainnet-api.itrocket.net"}
+    ],
+    "rpc": [
+        {"provider":"KonsorTech", "address": "https://mainnet-bitway-rpc.konsortech.xyz"},
+        {"provider":"ITRocket", "address": "https://bitway-mainnet-rpc.itrocket.net"}
+    ],
+    "grpc": [
+        {"address": "mainnet-side.konsortech.xyz:18090", "provider": "KonsorTech"}
+    ],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "bitway",
+    "logo": "/logos/bitway.jpg",
+    "assets": [{
+        "base": "ubtw",
+        "symbol": "BTW",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/bitway.jpg"
+    }]
+}

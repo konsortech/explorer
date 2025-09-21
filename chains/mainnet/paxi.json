@@ -1,0 +1,21 @@
+{
+    "chain_name": "paxi",
+    "api": [
+        {"provider": "KonsorTech", "address": "https://mainnet-paxi-api.konsortech.xyz"}
+    ],
+    "rpc": [
+        {"provider": "KonsorTech", "address": "https://mainnet-paxi-rpc.konsortech.xyz"}
+    ],
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "paxi",
+    "logo": "/logos/paxi.jpg",
+    "assets": [{
+        "base": "upaxi",
+        "symbol": "PAXI",
+        "exponent": "6",
+        "coingecko_id": "paxi", 
+        "logo": "/logos/paxi.jpg"
+    }]
+}
