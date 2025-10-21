@@ -11,6 +11,7 @@
       "symbol": "U",
       "base": "au",
       "exponent": 18,
+      "coingecko_id": "union-2",
       "logo": "/logos/union.jpg"
     }
   ]
