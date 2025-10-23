@@ -1,10 +1,12 @@
 {
     "chain_name": "arkeo",
     "api": [
-        {"provider": "Polkachu", "address": "https://arkeo-api.polkachu.com"}
+        {"provider": "Polkachu", "address": "https://arkeo-api.polkachu.com"},
+        {"provider": "KonsorTech", "address": "https://mainnet-arkeo-api.konsortech.xyz"}
     ],
     "rpc": [
-        {"provider": "Polkachu", "address": "https://arkeo-rpc.polkachu.com"}
+        {"provider": "Polkachu", "address": "https://arkeo-rpc.polkachu.com"},
+        {"provider": "KonsorTech", "address": "https://mainnet-arkeo-rpc.konsortech.xyz"}
     ],
     "sdk_version": "0.50.8",
     "coin_type": "118",
