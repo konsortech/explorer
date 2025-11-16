@@ -15,7 +15,7 @@
         "base": "upaxi",
         "symbol": "PAXI",
         "exponent": "6",
-        "coingecko_id": "paxi", 
+        "coingecko_id": "paxi-network",
         "logo": "/logos/paxi.jpg"
     }]
 }
