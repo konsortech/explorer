@@ -1,0 +1,20 @@
+{
+    "chain_id":"epix_1916-1",
+    "chain_name": "epix",
+    "api": ["https://mainnet-epix-api.konsortech.xyz", "https://api.epix.zone"],
+    "rpc": ["https://mainnet-epix-rpc.konsortech.xyz", "https://rpc.epix.zone"],
+    "sdk_version": "v0.54.0",
+    "coin_type": "60",
+    "min_tx_fee": "400000",
+    "addr_prefix": "epix",
+    "logo": "/logos/epix.png",
+    "assets": [
+        {
+            "base": "aepix",
+            "symbol": "EPIX",
+            "exponent": "18",
+            "coingecko_id": "",
+            "logo": "/logos/epix.png"
+        }
+    ]
+}
